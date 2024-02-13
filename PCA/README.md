@@ -1,1 +1,1 @@
-
+PCA is a linear dimensionality reduction technique that works by finding the orthogonal axes (principal components) of maximum variance in the data and projecting the data onto these axes. It preserves as much variance as possible in the original data.
